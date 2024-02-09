@@ -1,1 +1,3 @@
 # learning-devops
+
+Teaching HM git...
